@@ -3,9 +3,9 @@
 
 ### 如何使用
 
-很简单 你只需要引用js即可食用：
+很简单 你只需要引用js即可食用，这是例子：
 
-``<script src="/bim.js">``
+``<script src="/em/bim/bim.js">``
 
 
 请查看bim.json输入对应的字符
@@ -29,11 +29,9 @@ bim 默认为 居中
 
 ### 关于项目
 
-此项目的表情图片来自
+此项目的大部分表情图片来自
 
 [walinejs/emojis](https://github.com/walinejs/emojis)
-
-由第一个提交b站小黄脸的PR的的仓库，由于未按照walinejs标准所以没有通过，本项目删除了不必要的表情，因为能用到展示的并不多也不是很多人会用这个表情
 
 ### 版权
 
