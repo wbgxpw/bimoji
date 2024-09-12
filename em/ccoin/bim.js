@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
                             element.classList.contains('bim-b') ? 'baseline' :
                             element.classList.contains('bim-m') ? 'bottom' :
                             element.classList.contains('bim-s') ? 'sub' : '';
-                        element.innerHTML = `<img src="/em/cam/${bem}.png" alt="${bet}" style="max-width:1.2em;height:auto;vertical-align:${alignmentClass};">`;
+                        element.innerHTML = `<img src="/em/ccoin/${bem}.png" alt="${bet}" style="max-width:1.2em;height:auto;vertical-align:${alignmentClass};">`;
                     }
                 });
             });
