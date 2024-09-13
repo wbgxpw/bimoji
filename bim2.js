@@ -1,7 +1,7 @@
 //AI都喜欢写注释，仅供参考
 
 document.addEventListener('DOMContentLoaded', function() {
-    fetch('em/bim2.json')
+    fetch('./em/bim2.json')
         .then(response => response.json())
         .then(data => {
             // 遍历 JSON 对象中的每一个键
