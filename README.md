@@ -4,7 +4,7 @@
 ### 如何使用
 很简单 你只需要引用js即可食用：
 
-``<script src="bim2.min.js"></script>``
+``<script src="bim2.js"></script>``
 
 查看/em/bim2.json输入对应的字符
 
