@@ -2,19 +2,17 @@
 提供简单的js，让网页可以展示b站小黄脸表情
 
 ### 如何使用
+很简单 你只需要引用js即可食用：
 
-很简单 你只需要引用js即可食用，这是例子：
+``<script src="bim2.min.js"></script>``
 
-``<script src="/em/bim/bim.js">``
-
-
-请查看bim.json输入对应的字符
+查看/em/bim2.json输入对应的字符
 
 输入 span 或 i 元素 即可，这是例子：
 
-``<span class="bim">:笑哭</span>``
+``<span class="bmoji bim">:笑哭</span>``
 
-``<i class="bim">:笑哭</i>``
+``<i class="kucoin bim">:flat_icon</i>``
 
 当然，你也可以输入这些class值为表情调整对齐方式：
 
@@ -29,9 +27,11 @@ bim 默认为 居中
 
 ### 关于项目
 
-此项目的大部分表情图片来自
+此项目的表情图片来自
 
 [walinejs/emojis](https://github.com/walinejs/emojis)
+
+由第一个提交b站小黄脸的PR的的仓库，由于未按照walinejs标准所以没有通过，本项目删除了不必要的表情，因为能用到展示的并不多也不是很多人会用这个表情
 
 ### 版权
 
