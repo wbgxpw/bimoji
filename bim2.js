@@ -3,16 +3,19 @@ document.addEventListener('DOMContentLoaded', function() {
     const scriptElements = document.getElementsByTagName('script');
     let scriptUrl = '';
 
+    // 查找引用当前脚本的 <script> 标签
     for (let i = 0; i < scriptElements.length; i++) {
         const src = scriptElements[i].getAttribute('src');
-        if (src && src.includes('bim.js')) { // 假设这个JS文件名是 bim.js
-            scriptUrl = src.split('/').slice(0, -1).join('/');
+        if (src && src.includes('bim2.js')) { // 确保根据文件名匹配
+            scriptUrl = src.split('/').slice(0, -1).join('/'); // 获取前缀路径
             break;
         }
     }
 
     // 拼接完整的 JSON 请求 URL
-    fetch(`${scriptUrl}/em/bim2.json`)
+    const jsonUrl = `${scriptUrl}/em/bim2.json`;
+
+    fetch(jsonUrl)
         .then(response => response.json())
         .then(data => {
             // 遍历 JSON 对象中的每一个键
