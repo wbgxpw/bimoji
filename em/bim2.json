@@ -1,18 +1,18 @@
 {
     "bmoji": {
-        "path": "em/bilibili/face/",
+        "path": "/em/bilibili/face/",
         "bimt": [":doge", ":OK", ":爱心", ":傲娇", ":保佑", ":抱拳", ":藏狐", ":吃瓜", ":呲牙", ":打call", ":大哭", ":大笑", ":呆", ":点赞", ":调皮", ":嘟嘟", ":翻白眼", ":奋斗", ":福到了", ":尴尬", ":干杯", ":给心心", ":鼓掌", ":怪我咯", ":跪了", ":哈欠", ":害羞", ":滑稽", ":鸡腿", ":加油", ":奸笑", ":锦鲤", ":惊喜", ":惊讶", ":囧", ":嗑瓜子", ":抠鼻", ":口罩", ":辣眼睛", ":冷", ":脸红", ":灵魂出窍", ":妙啊", ":墨镜", ":难过", ":哦呼", ":撇嘴", ":生病", ":生气", ":胜利", ":思考", ":酸了", ":疼", ":偷笑", ":吐", ":脱单doge", ":歪嘴", ":微笑", ":委屈", ":无语", ":捂脸", ":捂眼", ":喜欢", ":喜极而泣", ":吓", ":嫌弃", ":响指", ":笑", ":笑哭", ":星星眼", ":嘘声", ":疑惑", ":阴险", ":拥抱", ":再见", ":支持", ":抓狂"],
         "bims": ["doge", "OK", "爱心", "傲娇", "保佑", "抱拳", "藏狐", "吃瓜", "呲牙", "打call", "大哭", "大笑", "呆", "点赞", "调皮", "嘟嘟", "翻白眼", "奋斗", "福到了", "尴尬", "干杯", "给心心", "鼓掌", "怪我咯", "跪了", "哈欠", "害羞", "滑稽", "鸡腿", "加油", "奸笑", "锦鲤", "惊喜", "惊讶", "囧", "嗑瓜子", "抠鼻", "口罩", "辣眼睛", "冷", "脸红", "灵魂出窍", "妙啊", "墨镜", "难过", "哦呼", "撇嘴", "生病", "生气", "胜利", "思考", "酸了", "疼", "偷笑", "吐", "脱单doge", "歪嘴", "微笑", "委屈", "无语", "捂脸", "捂眼", "喜欢", "喜极而泣", "吓", "嫌弃", "响指", "笑", "笑哭", "星星眼", "嘘声", "疑惑", "阴险", "拥抱", "再见", "支持", "抓狂"]
     },
    
     "coolapk": {
-        "path": "em/coolapk/face/",
+        "path": "/em/coolapk/face/",
         "bimt": [":yeah", ":ye", ":yawn", ":xiaoyan", ":xiaoku", ":wunai", ":wronged", ":what", ":vomit", ":unlike", ":tushe", ":torches", ":teeth", ":sweat", ":surprise", ":squint_3", ":squint_2", ":squint", ":spray", ":speechless", ":smirk", ":smile", ":sleep", ":slap", ":shy", ":sad", ":rose", ":roll", ":qqdoge", ":qinqin", ":py", ":pout", ":pitiful", ":pill", ":peeping", ":ok", ":nike_2", ":nike", ":nb", ":love", ":look", ":like", ":koubi", ":knife", ":jiong", ":icon", ":huh", ":huaji_6", ":huaji_5", ":huaji_4", ":huaji_3", ":huaji_2", ":huaji", ":hoo", ":hhh", ":heihei", ":heiha", ":hehes", ":hehe", ":heh", ":heart", ":hat", ":harm_huaji", ":half_eye", ":hahaha", ":grin", ":green_pill", ":fist", ":fear", ":err", ":erha_see", ":erha", ":eat_melon", ":drinking_wine", ":drinking", ":doge_4", ":doge_3", ":doge_2", ":doge", ":diaoxie", ":despise", ":dark_face", ":cute", ":crying", ":cry", ":cool", ":chin", ":cat", ":cap", ":bye", ":broken_heart", ":blood", ":beauti", ":awkward", ":arrogant", ":angry_2", ":angry", ":aiya"],
         "bims": ["yeah", "ye", "yawn", "xiaoyan", "xiaoku", "wunai", "wronged", "what", "vomit", "unlike", "tushe", "torches", "teeth", "sweat", "surprise", "squint_3", "squint_2", "squint", "spray", "speechless", "smirk", "smile", "sleep", "slap", "shy", "sad", "rose", "roll", "qqdoge", "qinqin", "py", "pout", "pitiful", "pill", "peeping", "ok", "nike_2", "nike", "nb", "love", "look", "like", "koubi", "knife", "jiong", "icon", "huh", "huaji_6", "huaji_5", "huaji_4", "huaji_3", "huaji_2", "huaji", "hoo", "hhh", "heihei", "heiha", "hehes", "hehe", "heh", "heart", "hat", "harm_huaji", "half_eye", "hahaha", "grin", "green_pill", "fist", "fear", "err", "erha_see", "erha", "eat_melon", "drinking_wine", "drinking", "doge_4", "doge_3", "doge_2", "doge", "diaoxie", "despise", "dark_face", "cute", "crying", "cry", "cool", "chin", "cat", "cap", "bye", "broken_heart", "blood", "beauti", "awkward", "arrogant", "angry_2", "angry", "aiya"]
     },
 
     "kucoin": {
-        "path": "em/coolapk/coin/",
+        "path": "/em/coolapk/coin/",
         "bimt": [":flat_coin", ":flat_1fen", ":flat_2fen", ":flat_5fen", ":flat_1mao", ":flat_2mao", ":flat_5mao", ":flat_1rmb", ":flat_2rmb", ":flat_5rmb", ":flat_10", ":flat_20", ":flat_50", ":flat_100", ":flat_1dollar", ":flat_2dollar", ":flat_5dollar", ":flat_1eur", ":flat_2eur", ":flat_5eur", ":silver", ":bronze", ":gold", ":coin", ":1fen", ":2fen", ":5fen", ":1mao", ":2mao", ":5mao", ":1rmb", ":2rmb", ":5rmb", ":10", ":20", ":50", ":100", ":1dollar", ":2dollar", ":5dollar", ":1eur", ":2eur", ":5eur"],
         "bims": ["flat_coin", "flat_1fen", "flat_2fen", "flat_5fen", "flat_1mao", "flat_2mao", "flat_5mao", "flat_1rmb", "flat_2rmb", "flat_5rmb", "flat_10", "flat_20", "flat_50", "flat_100", "flat_1dollar", "flat_2dollar", "flat_5dollar", "flat_1eur", "flat_2eur", "flat_5eur", "silver", "bronze", "gold", "coin", "1fen", "2fen", "5fen", "1mao", "2mao", "5mao", "1rmb", "2rmb", "5rmb", "10", "20", "50", "100", "1dollar", "2dollar", "5dollar", "1eur", "2eur", "5eur"]
     }

@@ -1,12 +1,10 @@
 # 哔文绘
-提供简单的js，让网页可以展示b站小黄脸表情
+提供简单的js，让网页不仅仅可以展示各大平台表情表情
 
 ### 如何使用
-很简单 你只需要引用js即可食用：
+很简单 你只需要引用js即可食用：例如
 
-（注意，建议直接在本地使用！）
-
-``<script src="bim2.js"></script>``
+``<script src="/path/to/bim2.js"></script>``
 
 查看/em/bim2.json输入对应的字符
 
@@ -32,8 +30,6 @@ bim 默认为 居中
 此项目的表情图片来自
 
 [walinejs/emojis](https://github.com/walinejs/emojis)
-
-由第一个提交b站小黄脸的PR的的仓库，由于未按照walinejs标准所以没有通过，本项目删除了不必要的表情，因为能用到展示的并不多也不是很多人会用这个表情
 
 ### 版权
 
