@@ -6,7 +6,9 @@
 
 ``<script src="/path/to/bim2.js"></script>``
 
-``或者<script src="https://cdn.jsdelivr.net/gh/wbgxpw/bimoji@master/bim2.js"></script>
+jsdelivr
+
+`` <script src="https://cdn.jsdelivr.net/gh/wbgxpw/bimoji@master/bim2.js"></script> ``
 
 查看/em/bim2.json输入对应的字符
 
