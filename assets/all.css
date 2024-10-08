@@ -1,0 +1,104 @@
+/* 响应式 logo */
+.logo {
+    width: 15vw; /* 使用视口宽度，确保响应式 */
+    max-width: 150px; /* 限制 logo 的最大宽度 */
+}
+
+img.bottom-logo{
+  position: fixed;
+  right: 5%;
+  bottom: 2%;
+  width: 14vw;
+  padding-right: 5%;
+  padding-bottom: 20%;
+  z-index: 110;
+  opacity: 0.75;
+}
+
+.mdui-container{
+  max-width:960px;
+  margin:0 auto;
+}
+
+.mdui-container.docs{
+  max-width:768px;
+  margin:0 auto;
+}
+
+@media screen and (max-width: 768px) {
+    .logo {
+        width: 50vw; /* 在小屏幕时使用 50% 视口宽度 */
+    }
+    img.bottom-logo{
+      width: 22vw;
+    }
+}
+/* logo 容器居中对齐 */
+.logo-container {
+    text-align: center;
+    height: 90vh; /* 占满整个视窗高度 */
+    display: flex;
+    justify-content: center;
+    align-items: center; /* 水平和垂直居中 */
+    flex-direction: column; /* 垂直排列 logo 和文字 */
+}
+
+.mdui-typo.pre-code{
+   font-size:10px;
+   width:50%;
+   margin:5px;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 16px; /* 根据需要调整字体大小 */
+    z-index: 100; 
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;    
+}
+
+footer a{
+    text-decoration: none; /* 去掉下划线 */
+    color: white; /* 设置文本颜色为白色 */
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;    
+}
+
+footer a:hover{
+    text-decoration: underline;
+    color: #607D8B;
+
+}
+
+.docs-footer a{
+    text-decoration: none;
+    color: white;
+    font-size:14px;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+}
+
+.docs-footer a:hover{
+    text-decoration: underline;
+    color: #607D8B;
+}
+
+/* 标题样式 */
+h1 {
+    font-weight: 600;
+    font-size: 42px;
+    margin: 0; /* 给 logo 和标题留些间距 */
+}
+
+/* 副标题样式 */
+h4 {
+    font-weight: 400;
+    opacity: 0.78;
+    font-size: 16px;
+    margin-bottom: 5px; /* 调整副标题与下面内容的间距 */
+}
